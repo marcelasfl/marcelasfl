@@ -1,5 +1,5 @@
 ### Olá! Eu sou Marcela Starling ★
-🪴 Estudante no IFES de Sistemas de informação 
+🪴 Graduada no IFES de Sistemas de informação e terminando minha pós em Dev. Web
 
 📕 Frontend
 
